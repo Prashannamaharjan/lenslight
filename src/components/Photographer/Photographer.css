@@ -1,0 +1,27 @@
+.photographer{
+    margin: 100px auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.photoghper-left{
+    flex-basis: 25%;
+}
+.photoghper-right{
+    flex-basis: 66%;
+    
+}
+
+.Photographer1{
+    width: 100%;
+    border-radius: 10px;
+}
+.photograph{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 90%;
+    align-items: center;
+    margin: 100px auto;
+}
